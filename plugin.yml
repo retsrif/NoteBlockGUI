@@ -1,0 +1,5 @@
+name: NoteBlockGUI
+version: 1.0
+main: retsrif.NoteBlockGUI.NoteBlockGUI
+author: retsrif
+depend: [Spout]
